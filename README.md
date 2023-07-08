@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>**Catalog of my things**</b></h3>
+  <h3><b>Media Library Manager</b></h3>
 
 </div>
 
@@ -27,38 +27,35 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Catalog of my things] <a name="about-project"></a>
+# 📖 Media Library Manager <a name="about-project"></a>
 
-**[Catalog of my things]** is a console app that will help you to keep a record of different types of things you own: books, music albums, movies, and games.
+This project is a catalog of my personal collection of items, including books, music albums, movies, and games. It provides a user-friendly interface to manage and organize my collection.
+
+## 🛠 Built With
+
+### Tech Stack
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+The project is built using the following technologies:
 
-<details>
-  <summary>Ruby</summary>
-  <summary>IRB</summary>
-  <summary>SQL</summary>
-  <summary>Rspec</summary>
-  <summary>Vscode</summary>
-</details>
-
-
-<!-- Features -->
-
+- Ruby - Programming language
+- JSON - Data storage format
+- Git - Version control system
+- 
 ### Key Features <a name="key-features"></a>
 
-
-- **[Add new things]**
-- **[Schema file is created for the project]**
-- **[Data is preserve in json files]**
-- **[A console app is built for the project]**
-
+- Add items to the catalog
+- List items based on various criteria (genre, label, author, etc.)
+- Archive items based on specific conditions
+- Persist data using JSON files
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+
 [CLICK HERE](https://drive.google.com/file/d/1YXQAVDRESbPK83F5Q4g3BIn_QL2qbURA/view?usp=sharing) for a video presentation of the project
 
 
@@ -79,12 +76,12 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/adeola003/my_things_ruby_capstone.git
-  cd my_things_ruby_capstone
+  git clone git@github.com:MussieTeka/media-library-manager.git
+  cd media-library-manager
 ```
 
 ### Install
--Command: bundle install
+-Command: `bundle install`
 
 
 ### Usage
@@ -93,39 +90,38 @@ Clone this repository to your desired folder:
 
 <!-- AUTHORS -->
 
+👤 **Mussie Kahsay**
+- GitHub: [@MussieTeka](https://github.com/MussieTeka)
+- Twitter: [@MussieTeka](https://twitter.com/mussieteka)
+- LinkedIn: [@MussieTeka](https://linkedin.com/in/mussieteka)
+
 👤 **Abdel-Khafid SALAOU**
 
 - GitHub: [@githubhandle](https://github.com/adeola003)
 - Twitter: [@twitterhandle](https://twitter.com/khadaf6)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdel-khafid-salaou)
 
-
 👤 **JOSECK OSUGO**
 
 - GitHub: [0sugo](https://github.com/0sugo)
 - Twitter: [@0sugo5](https://twitter.com/osugo5)
-- LinkedIn: [Joseck Osugo](https://www.linkedin.com/in/joseck-osugo/)
-
-👤 **Mussie Kahsay**
-- GitHub: [@MussieTeka](https://github.com/MussieTeka)
-- Twitter: [@mussieteka](https://twitter.com/mussieteka)
-- LinkedIn: [@mussieteka](https://linkedin.com/in/mussieteka)
-
+- LinkedIn [Joseck Osugo](https://www.linkedin.com/in/joseck-osugo/)
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Will-add-more-intersting features]**
+- Search functionality to find specific items
+- Sorting and filtering options for item lists
+- User authentication and personalized catalogs
+- 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issue page](https://github.com/adeola003/my_things_ruby_capstone/issues)
-
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +130,7 @@ Feel free to check the [issue page](https://github.com/adeola003/my_things_ruby_
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this repo dont forget to give it a star.
+If you like this repo don't forget to give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +138,7 @@ If you like this repo dont forget to give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank the Microverse community and the partners.
+We would like to thank the Microverse community and its partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
