@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 ```
 
 ### Install
--Command: `bundle install`
+`bundle install`
 
 
 ### Usage
@@ -114,7 +114,7 @@ Clone this repository to your desired folder:
 - Search functionality to find specific items
 - Sorting and filtering options for item lists
 - User authentication and personalized catalogs
-- 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
