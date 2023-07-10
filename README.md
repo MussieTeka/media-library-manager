@@ -25,7 +25,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
+<!--- PROJECT DESCRIPTION --->
 
 # 📖 Media Library Manager <a name="about-project"></a>
 
