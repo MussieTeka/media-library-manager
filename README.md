@@ -44,7 +44,7 @@ The project is built using the following technologies:
 - Ruby - Programming language
 - JSON - Data storage format
 - Git - Version control system
-- 
+  
 ### Key Features <a name="key-features"></a>
 
 - Add items to the catalog
